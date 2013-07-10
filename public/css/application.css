@@ -1,8 +1,19 @@
+
+body {
+  background-color: #bdc3c7;
+}
+
 .container {
+  background-color: #7f8c8d;
   margin: 20px auto;
   width: 600px;
   padding: 0px 20px 20px 20px;
   border: 1px dotted black;
+  text-align: center;
+}
+
+h1 {
+  color: #34495e;
 }
 
 button a {
